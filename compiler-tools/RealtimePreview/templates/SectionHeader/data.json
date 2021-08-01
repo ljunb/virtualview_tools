@@ -1,0 +1,33 @@
+{
+    "templates": [
+        "QUxJVlYAAQAADmQAAAAvAAAAgQAAALAAAACCAAABNgAAAAAAAAE6AAAAAAABAAAAAAABAAtJQ29tcG9uZW50MQBuAAACBKoy9dAAAAAAXNXw8QAAAMiwmFUuEQAAAHdwrLz/////AAAAAAAAAAAHBcQtOs4AAAAoXNXw8QAAAMiwmFUu////8BC4ck4AAAAkd3CsvP////8AAAACADZFLUjWynnAmy42tiGl5gAAAQEAAAACtiGl5gBvQHske2l0ZW1zWzBdLmluZm8udGV4dENvbG9yfSA/ICR7aXRlbXNbMV0uc3ViSXRlbXNbMF0uaW5mby50ZXh0Q29sb3J9IDogJHtpdGVtc1syXS5zdWJJdGVtc1swXS5pbmZvLnRleHRDb2xvcn19SNbKeQAHJHt0ZXh0fQAAAAA="
+    ], 
+    "data": {
+        "text": "IComponent1", 
+        "items": [
+            {
+                "info": {
+                    "textColor": "false"
+                }
+            }, 
+            {
+                "subItems": [
+                    {
+                        "info": {
+                            "textColor": "#00ff00"
+                        }
+                    }
+                ]
+            }, 
+            {
+                "subItems": [
+                    {
+                        "info": {
+                            "textColor": "#ff0000"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
